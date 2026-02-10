@@ -19,3 +19,7 @@
 ## Hosts
 
 * [Azka09irgi](hosts/azka09irgi.md)
+* [Mecha](hosts/mecha.md)
+* [Mr Cheese](hosts/mr-cheese.md)
+* [Proxy](hosts/proxy.md)
+* [Shadow](hosts/shadow.md)
