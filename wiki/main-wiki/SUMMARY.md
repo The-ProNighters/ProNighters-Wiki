@@ -23,3 +23,7 @@
 * [Mr Cheese](hosts/mr-cheese.md)
 * [Proxy](hosts/proxy.md)
 * [Shadow](hosts/shadow.md)
+
+## miscellaneous&#x20;
+
+* [Lobby](miscellaneous/lobby.md)
