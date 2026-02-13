@@ -8,6 +8,6 @@ Welcome to our Discord Server page! In this page, you'll learn more about our se
 
 **List of Contents:**\
 [**1. Types of Gamenights**](1.-type-of-gamenights.md)\
-[**2. Role Info**](2.-role-info.md)\
+[**2. Role Info**](2.-role-info/)\
 [**3. Channel Info**](3.-channel-info.md)
 
