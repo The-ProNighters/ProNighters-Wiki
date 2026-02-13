@@ -6,7 +6,7 @@ description: The @min
 
 {% hint style="warning" %}
 **This page is a stub!**\
-This page is a stub. You can edit this page by going to [GitHub](https://github.com/The-ProNighters/ProNighters-Wiki/blob/main/wiki/main-wiki/mins/) or [GitLab](https://gitlab.com/the-pronighters/ProNighters-Wiki/-/blob/main/wiki/main-wiki/mins/expiration.md)!\
+This page is a stub. You can edit this page by going to [GitHub](https://github.com/The-ProNighters/ProNighters-Wiki/blob/main/wiki/main-wiki/mins/expiration.md) or [GitLab](https://gitlab.com/the-pronighters/ProNighters-Wiki/-/blob/main/wiki/main-wiki/mins/expiration.md)!\
 Requires: Further information
 {% endhint %}
 
