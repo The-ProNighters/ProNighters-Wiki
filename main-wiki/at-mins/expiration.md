@@ -12,7 +12,7 @@ Requires: Further information
 {% endhint %}
 
 **Information:**\
-The @min on ProNighters.
+The @min on ProNighters. MGRR glazer
 
 **Role:** @min
 
