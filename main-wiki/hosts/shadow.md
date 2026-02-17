@@ -7,7 +7,7 @@ icon: clipboard-user
 
 {% hint style="warning" %}
 **This page is a stub!**\
-This page is a stub. You can edit this page on [GitHub](https://github.com/The-ProNighters/ProNighters-Wiki/edit/main/wiki/main-wiki/hosts/shadow.md)!\
+This page is a stub. You can edit this page on [GitHub](https://github.com/The-ProNighters/ProNighters-Wiki/edit/main/main-wiki/hosts/shadow.md)!\
 Requires: Further information
 {% endhint %}
 

@@ -7,7 +7,7 @@ icon: hammer
 
 {% hint style="warning" %}
 **This page is a stub!**\
-This page is a stub. You can edit this page on [GitHub](https://github.com/The-ProNighters/ProNighters-Wiki/edit/main/wiki/main-wiki/mins/hyperlink.md)!\
+This page is a stub. You can edit this page on [GitHub](https://github.com/The-ProNighters/ProNighters-Wiki/edit/main/main-wiki/at-mins/hyperlink.md)!\
 Requires: Further information
 {% endhint %}
 

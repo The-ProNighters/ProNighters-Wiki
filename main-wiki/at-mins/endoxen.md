@@ -7,7 +7,7 @@ icon: hammer
 
 {% hint style="warning" %}
 **This page is a stub!**\
-This page is a stub. You can edit this page on [GitHub](https://github.com/The-ProNighters/ProNighters-Wiki/edit/main/wiki/main-wiki/mins/endoxen.md)!\
+This page is a stub. You can edit this page on [GitHub](https://github.com/The-ProNighters/ProNighters-Wiki/edit/main/main-wiki/at-mins/endoxen.md)!\
 Requires: Further information
 {% endhint %}
 

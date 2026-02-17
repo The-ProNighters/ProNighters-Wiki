@@ -7,7 +7,7 @@ icon: screwdriver-wrench
 
 {% hint style="warning" %}
 **This page is a stub!**\
-This page is a stub. You can edit this page on [GitHub](https://github.com/The-ProNighters/ProNighters-Wiki/edit/main/wiki/main-wiki/high-ranks/habclan.md)!\
+This page is a stub. You can edit this page on [GitHub](https://github.com/The-ProNighters/ProNighters-Wiki/edit/main/main-wiki/high-ranks/habclan.md)!\
 Requires: Further Information
 {% endhint %}
 
