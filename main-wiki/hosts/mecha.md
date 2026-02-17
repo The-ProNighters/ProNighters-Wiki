@@ -5,14 +5,8 @@ icon: clipboard-user
 
 # Mecha
 
-{% hint style="warning" %}
-**This page is a stub!**\
-This page is a stub. You can edit this page on [GitHub](https://github.com/The-ProNighters/ProNighters-Wiki/edit/main/main-wiki/hosts/mecha.md)!\
-Requires: Further information
-{% endhint %}
-
 **Information:**\
-The host of ProNighters.
+The host of ProNighters. A special host with 4 special roles, including: Fallen Head, who sold ProNighters; Game Night Winner; MVP; and Artist role. Elden Lord
 
 **Role:** Host
 
