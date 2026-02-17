@@ -5,14 +5,8 @@ icon: hammer
 
 # Hyperlink
 
-{% hint style="warning" %}
-**This page is a stub!**\
-This page is a stub. You can edit this page on [GitHub](https://github.com/The-ProNighters/ProNighters-Wiki/edit/main/main-wiki/at-mins/hyperlink.md)!\
-Requires: Further information
-{% endhint %}
-
 **Information:**\
-The @min on ProNighters.
+The @min on ProNighters. A special host who has their own role: "MEGA Tf2 and FNAF fan", including other special roles such as Exclusive artist, Champion, Game night winner, MVPs, and the Artist role.
 
 **Role:** @min
 
