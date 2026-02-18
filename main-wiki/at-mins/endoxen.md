@@ -5,14 +5,8 @@ icon: hammer
 
 # Endoxen
 
-{% hint style="warning" %}
-**This page is a stub!**\
-This page is a stub. You can edit this page on [GitHub](https://github.com/The-ProNighters/ProNighters-Wiki/edit/main/main-wiki/at-mins/endoxen.md)!\
-Requires: Further information
-{% endhint %}
-
 **Information:**\
-The @min on ProNighters. Formerly a host
+The @min on ProNighters. Formerly a host. This @min has 3 special roles: Game Night Photographer, Exclusive Artists, and MVP. He also created a few stickers for ProNighters, and they were later added to the server.
 
 **Role:** @min
 

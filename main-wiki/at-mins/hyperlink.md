@@ -6,7 +6,7 @@ icon: hammer
 # Hyperlink
 
 **Information:**\
-The @min on ProNighters. A special host who has their own role: "MEGA Tf2 and FNAF fan", including other special roles such as Exclusive artist, Champion, Game night winner, MVPs, and the Artist role.
+The @min on ProNighters. A special @min who has their own role: "MEGA Tf2 and FNAF fan", including other special roles such as Exclusive artist, Champion, Game night winner, MVPs, and the Artist role.
 
 **Role:** @min
 

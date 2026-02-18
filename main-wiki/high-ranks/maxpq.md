@@ -7,7 +7,7 @@ icon: hammer
 
 {% hint style="warning" %}
 **This page is a stub!**\
-This page is a stub. You can edit this page on [GitHub](https://github.com/The-ProNighters/ProNighters-Wiki/edit/main/main-wiki/high-ranks/maxpq.md)!\
+This page is a stub. You can help by expanding it on [GitHub](https://github.com/The-ProNighters/ProNighters-Wiki/edit/main/main-wiki/high-ranks/maxpq.md)!\
 Requires: Further Information
 {% endhint %}
 
