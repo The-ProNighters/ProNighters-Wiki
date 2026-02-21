@@ -16,4 +16,5 @@ Welcome to our Discord Server page! In this page, you'll learn more about our se
 [**a. Special Roles**](2.-role-info/a.-special-roles.md)\
 [**b. Leveling Roles**](2.-role-info/b.-leveling-roles.md)\
 [**c. Discontinued Roles**](2.-role-info/c.-discontinued-roles.md)\
-[**3. Channel Info**](3.-channel-info.md)
+[**3. Channel Info**](3.-channel-info.md)\
+[**4. Bot Commands**](4.-bot-commands.md)
