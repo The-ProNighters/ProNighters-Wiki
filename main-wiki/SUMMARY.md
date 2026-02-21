@@ -6,6 +6,7 @@
 ## High Ranks
 
 * [bumpybanger3](high-ranks/bumpybanger3.md)
+* [Sebee](high-ranks/sebee.md)
 * [Habclan](high-ranks/habclan.md)
 * [Night](high-ranks/night.md)
 * [Maxpq](high-ranks/maxpq.md)
