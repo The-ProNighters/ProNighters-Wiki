@@ -35,3 +35,4 @@
     * [b. Leveling Roles](miscellaneous/discord-server/2.-role-info/b.-leveling-roles.md)
     * [c. Discontinued Roles](miscellaneous/discord-server/2.-role-info/c.-discontinued-roles.md)
   * [3. Channel Info](miscellaneous/discord-server/3.-channel-info.md)
+  * [4. Bot Commands](miscellaneous/discord-server/4.-bot-commands.md)
