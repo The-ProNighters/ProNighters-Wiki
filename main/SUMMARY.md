@@ -45,3 +45,4 @@
   * [How to Join a Game Night with a Roblox Private Server](miscellaneous/tutorials/how-to-join-private-server.md)
   * [How to Teleport Everyone from the ProNighters Lobby to Other Games](miscellaneous/tutorials/how-to-teleport-everyone-from-pronighters-lobby-to-the-other-games.md)
 * [Easter Eggs](miscellaneous/easter-eggs.md)
+* [ProNighters Fun Fact](miscellaneous/pronighters-fun-fact.md)
