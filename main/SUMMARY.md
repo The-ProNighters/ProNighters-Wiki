@@ -25,6 +25,7 @@
 * [Mecha](hosts/mecha.md)
 * [Mr Cheese](hosts/mr-cheese.md)
 * [Proxy](hosts/proxy.md)
+* [Repenkos](hosts/repenkos.md)
 * [Shadow](hosts/shadow.md)
 
 ## miscellaneous
