@@ -27,6 +27,7 @@
 * [Proxy](hosts/proxy.md)
 * [Repenkos](hosts/repenkos.md)
 * [Shadow](hosts/shadow.md)
+* [Super_Player023](hosts/super_player023.md)
 
 ## miscellaneous
 

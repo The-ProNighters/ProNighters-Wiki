@@ -1,9 +1,11 @@
-# Super\_Player
+# Super\_Player023
 
 **Information:**\
-The epic person ever.
+The epic person ever and also a host for ProNighters.
 
 **Join Date:** 25 January 2026
+
+**Role:** Host
 
 **Notable Quotes:**\
 "Lidl"\
