@@ -1,6 +1,15 @@
+---
+description: The host
+icon: clipboard-user
+---
+
 # Vanguard
 
 **Information:**\
 I am arguably the most political person here, I hate chocolate cakes and I am allergic to cats
 
-**Join Date:** 3 October 2025&#x20;
+**Role:** Hosts
+
+**Join Date:** 3 October 2025
+
+

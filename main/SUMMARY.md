@@ -28,6 +28,7 @@
 * [Repenkos](hosts/repenkos.md)
 * [Shadow](hosts/shadow.md)
 * [Super_Player023](hosts/super_player023.md)
+* [Vanguard](hosts/vanguard.md)
 
 ## miscellaneous
 
