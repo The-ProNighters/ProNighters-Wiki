@@ -7,7 +7,7 @@ icon: circle-info
 ProNighters is a community Discord server where everyone can join in on game nights, including Roblox, Minecraft, Discord voice chat activities, and more!
 
 {% hint style="danger" %}
-**ProNighters Discord Server** will be deleted at 05 May 2026.
+**ProNighters Discord Server** will be shutting down at 05 May 2026.
 {% endhint %}
 
 #### Social Media
