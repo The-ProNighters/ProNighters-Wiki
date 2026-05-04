@@ -5,23 +5,20 @@ on:
     - cron: "*/10 * * * *"  # every 10 minutes
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   sync:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout destination repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Add source repo
+      - name: Sync from source
         run: |
           git remote add upstream https://github.com/Azka09irgi/ProNighters-Wiki.git
           git fetch upstream
-
-      - name: Merge changes
-        run: |
-          git merge upstream/main --allow-unrelated-histories -m "Auto sync"
-
-      - name: Push changes
-        run: |
-          git push origin main
+          git reset --hard upstream/main
+          git push origin main --force
