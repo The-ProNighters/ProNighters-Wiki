@@ -4,11 +4,13 @@
 You must be a **Host** to use this command.
 {% endhint %}
 
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
 ### Step 1 – Set the Number of Days
 
 First, specify **how many days** the user should be blacklisted.
 
-When you use the `/blacklist-gamenight` On first use, you’ll be asked how long the user should be blacklisted (in days).
+When you use the `/blacklist-gamenights` On first use, you’ll be asked how long the user should be blacklisted (in days).
 
 For example:
 
@@ -16,7 +18,7 @@ For example:
 
 _(See the **Days** field in the image – this is where you enter the number.)_
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>The Days field (enter the number of days here)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Step 2 – Select the User
 
@@ -29,6 +31,8 @@ You can:
 
 For more information on how to find a User ID, see the article: **“**[**Where can I find my User/Server/Message ID?**](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID)**”**
 
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
 ### Step 3 – Add a Reason
 
 You must provide a **reason** for blacklisting the user from joining Game Nights.
@@ -38,8 +42,6 @@ For example:
 * `This user is breaking too many Game Night rules.`
 
 _(See the image for an example of a blacklist reason.)_
-
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>The reason this user is blacklisted from Game Nights (example)</p></figcaption></figure>
 
 ### Step 4 – Finalize
 

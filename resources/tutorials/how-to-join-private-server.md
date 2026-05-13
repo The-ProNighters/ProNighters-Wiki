@@ -4,9 +4,9 @@
 Read more about [Private / VIP Servers](https://en.help.roblox.com/hc/en-us/articles/205345050-Private-VIP-Servers-FAQ)
 {% endhint %}
 
-You must turn on **Private Servers** for **Everyone**.
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Private Server Settings</p></figcaption></figure>
+You must turn on **Private Servers** for **Everyone**.
 
 If you can’t enable this option, you must add the private server owner (the **Host**) as one of your **connections** on Roblox so you can join their private servers.
 

@@ -1,8 +1,10 @@
-# How to Use The /button-make Command
+# How to Use the /button-make Command
 
 {% hint style="info" %}
 You must be a **Host** to use this command.
 {% endhint %}
+
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 ### Step 1 - Proper
 
@@ -18,7 +20,7 @@ First, choose whether the Game Night will be **Proper** (Yes/No).
 
 **Tip:** Only select **Yes** if you intend to host a longer Game Night or run multiple games.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>The Proper option</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Step 2 - Type
 
@@ -29,11 +31,9 @@ Next, you’ll be asked to choose the **type of Game Night**.
 * If you select **Non-Roblox**:
   * The bot will only send you a message **without** the **“Link to the ProNighters Lobby”** button.
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>The Type option.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Step 3 - Embed Maker
-
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>The embed maker form</p></figcaption></figure>
 
 In this step, you can customize the **embed message** for your Game Night button.
 
@@ -51,9 +51,9 @@ There is also a field labeled **“GAME NIGHT LINK GOES HERE”**:
 * Use this field to add **extra information** about your Game Night.
 * You can put a **link** (for example, a Roblox private server link) or a **short message** with details.
 
-### Step 4 - Finalize
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Game night button</p></figcaption></figure>
+### Step 4 - Finalize
 
 Once you’re done filling everything out, confirm your choices.
 
@@ -61,11 +61,11 @@ Your Game Night button will be created, and it should look similar to the exampl
 
 **Congratulations!** You’ve successfully created a button for your Game Night.
 
-If you still need help, you can contact any of our **Hosts** for assistance.
+If you still need help, you can contact any of our **Hosts**.
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Optional – Add a Co-Host to Your Game Night
-
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Co-Host Option</p></figcaption></figure>
 
 You can optionally add a **Co-Host** to your Game Night.
 

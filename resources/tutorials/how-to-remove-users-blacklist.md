@@ -4,17 +4,17 @@
 You must be a **Host** to use this command.
 {% endhint %}
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ### Step 1 – Set the days to 0
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>The days column</p></figcaption></figure>
-
 By setting the **Days** value to `0`, you will remove the user’s blacklist from joining Game Nights.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Step 2 – Select the blacklisted user
 
 Select the user you want to remove from the blacklist. If they are not currently blacklisted, this command will not work because their blacklist has already been removed, or they were never on the blacklist.
-
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>The user column</p></figcaption></figure>
 
 ### Step 3 – Provide a reason
 
